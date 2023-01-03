@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧭 Frontend Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 Ece Student from IIIT Bhopal [2025]<br>📧 an525ish@gmail.com<br>📝 CV:  View Resume<br>
+🧭 Frontend Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 Ece Student from IIIT Bhopal [2025]<br>📧 an525ish@gmail.com<br>📝 CV:  <a href="https://drive.google.com/file/d/1oVq3AD2m70iQLS23AAPuj4t7lvPf-Bpp/view?usp=share_link"> View Resume </a> <br>
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=an525ish&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
