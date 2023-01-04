@@ -1,4 +1,4 @@
-| # 💫 About Me:        |     <div style="text-align: right"> [![](https://visitcount.itsvg.in/api?id=an525ish&icon=0&color=0)](https://visitcount.itsvg.in) </div>        
+ # 💫 About Me:     
 🧭 Frontend Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 Ece Student from IIIT Bhopal [2025]<br>📧 an525ish@gmail.com<br>📝 CV:  <a href="https://drive.google.com/file/d/1oVq3AD2m70iQLS23AAPuj4t7lvPf-Bpp/view?usp=share_link" >View Resume</a><br>
 
 
@@ -16,4 +16,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=an525ish&icon=0&color=0)](https://visitcount.itsvg.in)
