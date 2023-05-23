@@ -28,7 +28,10 @@
  </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
- ![Snake Graph](https://github.com/an525ish/an525ish/blob/main/github-user-contribution.svg)
+<!--  ![Snake Graph](https://github.com/an525ish/an525ish/blob/main/github-user-contribution.svg) -->
+<p>
+  <img src="https://github.com/an525ish/an525ish/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
