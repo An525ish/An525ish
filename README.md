@@ -23,12 +23,12 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Spyware007&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="Spyware007" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an525ish&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="an525ish" />
   </p>
  </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
- ![Snake Graph](https://github.com/Spyware007/Spyware007/blob/main/github-user-contribution.svg)
+ ![Snake Graph](https://github.com/an525ish/an525ish/blob/main/github-user-contribution.svg)
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
