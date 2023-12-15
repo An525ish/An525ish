@@ -21,8 +21,33 @@
   <tbody> 
     <tr>
       <td> <b> Full Stack developer Intern</b> </td>
-      <td><a href="https://etherworld.co/"/><b>Etherworld</b></a></td>
-      <td> <b>Feb 2023 - Present </b> </td>
+      <td><a href="https://web.stratzy.in/"/><b>Stratzy</b></a></td>
+      <td> <b>Aug 2023 - Present </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Full Stack developer Intern</b> </td>
+      <td><a href="https://www.linkedin.com/company/alongrow/"/><b>Alongrow Services</b></a></td>
+      <td> <b>Sep 2023 - Nov 2023 </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Software developer Intern</b> </td>
+      <td><a href="https://aavilabs.com/"/><b>AAV Innovation Labs</b></a></td>
+      <td> <b>Aug 2023 - Sep 2023 </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Full Stack developer Intern</b> </td>
+      <td><a href="https://www.zaperon.com/"/><b>Zaperon</b></a></td>
+      <td> <b>Jul 2023 - Aug-2023 </b> </td>
+   </tr>
+   <tr>
+      <td> <b> Open Source Contributor</b> </td>
+      <td><a href="https://github.com/pulls?q=is%3Apr+archived%3Afalse+is%3Aclosed+mentions%3AAn525ish+sort%3Arelevance-desc"/><b>GSSOC</b></a></td>
+      <td> <b>Jun 2023 - Aug-2023 </b> </td>
+   </tr>
+    <tr>
+      <td> <b> Full Stack developer Intern</b> </td>
+      <td><a href="https://etherworld.co/"/><b>Avarch</b></a></td>
+      <td> <b>Feb 2023 - Aug-2023 </b> </td>
    </tr>
     <tr>
       <td> <b> Full Stack developer Intern</b> </td>
