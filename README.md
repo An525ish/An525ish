@@ -69,7 +69,7 @@
   </tr>
 </table>
 
----
+<!-- --- -->
 
 <div align="center">
   <p>
@@ -80,10 +80,10 @@
 
 <!--  ![Snake Graph](https://github.com/an525ish/an525ish/blob/main/github-user-contribution.svg) -->
 <p>
-  <img src="https://github.com/an525ish/an525ish/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+<!--   <img src="https://github.com/an525ish/an525ish/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p> -->
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
----
+<!-- --- -->
 [![](https://visitcount.itsvg.in/api?id=an525ish&icon=0&color=0)](https://visitcount.itsvg.in)
