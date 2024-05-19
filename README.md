@@ -19,10 +19,15 @@
       </tr>
   </thead>
   <tbody> 
+   <tr>
+      <td> <b> Software developer Intern</b> </td>
+      <td><a href="https://www.yuty.me/"/><b>Yuty</b></a></td>
+      <td> <b>May 2024 - Present </b> </td>
+   </tr>
     <tr>
-      <td> <b> Full Stack developer Intern</b> </td>
+      <td> <b> Software developer Intern</b> </td>
       <td><a href="https://web.stratzy.in/"/><b>Stratzy</b></a></td>
-      <td> <b>Aug 2023 - Present </b> </td>
+      <td> <b>Aug 2023 - Apr 2024 </b> </td>
    </tr>
    <tr>
       <td> <b> Full Stack developer Intern</b> </td>
