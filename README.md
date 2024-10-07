@@ -20,9 +20,19 @@
   </thead>
   <tbody> 
    <tr>
+      <td> <b> FullStack developer</b> </td>
+      <td><a href="https://www.togglehead.in/"/><b>Togglehead</b></a></td>
+      <td> <b>Jul 2024 - Oct 2024 </b> </td>
+   </tr>
+   <tr>
+      <td> <b> FullStack developer</b> </td>
+      <td><a href="https://sweetdesignhub.com/"/><b>SweetdesignHub</b></a></td>
+      <td> <b>Jul 2024 - Sep 2024 </b> </td>
+   </tr>
+   <tr>
       <td> <b> Software developer Intern</b> </td>
       <td><a href="https://www.yuty.me/"/><b>Yuty</b></a></td>
-      <td> <b>May 2024 - Present </b> </td>
+      <td> <b>May 2024 - Jul 2024 </b> </td>
    </tr>
     <tr>
       <td> <b> Software developer Intern</b> </td>
