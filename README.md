@@ -80,7 +80,7 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=an525ish&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="an525ish" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an525ish&theme=dark" alt="an525ish" /></td>
+    <td><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=an525ish&theme=dark&hide_border=false" alt="an525ish" /></td>
   </tr>
 </table>
 
