@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 # <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">   About Me:   
-🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 Ece Student from IIIT Bhopal [2025]<br>📧 an525ish@gmail.com<br>📝 CV:  <a href="https://drive.google.com/file/d/1jSd1BJWltjKx6GGN5J2eFEJn4IYQSIOb/view?usp=share_link" >View Resume</a><br>
+🧭 FullStack Developer<br>🏡 Currently based in India 🇮🇳<br>🏫 Ece Student from IIIT Bhopal [2025]<br>🌐 Portfolio :  <a href="https://portfolio.an525ish.site/" >Click Here</a><br>📧 Email : an525ish@gmail.com<br>📝 CV :  <a href="https://drive.google.com/file/d/1jSd1BJWltjKx6GGN5J2eFEJn4IYQSIOb/view?usp=share_link" >View Resume</a><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/an525ish) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/an525ish) 
