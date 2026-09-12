@@ -20,14 +20,19 @@
   </thead>
   <tbody> 
    <tr>
-      <td> <b> FullStack developer</b> </td>
-      <td><a href="https://www.togglehead.in/"/><b>Togglehead</b></a></td>
-      <td> <b>Jul 2024 - Oct 2024 </b> </td>
+      <td> <b> Software developer</b> </td>
+      <td><a href="aidash.com"/><b>AIDash</b></a></td>
+      <td> <b>Aug 2024 - Feb 2025 </b> </td>
    </tr>
    <tr>
       <td> <b> FullStack developer</b> </td>
-      <td><a href="https://sweetdesignhub.com/"/><b>SweetdesignHub</b></a></td>
-      <td> <b>Jul 2024 - Sep 2024 </b> </td>
+      <td><a href="https://angoor.ai"/><b>Angoor AI</b></a></td>
+      <td> <b>Aug 2024 - Feb 2025 </b> </td>
+   </tr>
+   <tr>
+      <td> <b> FullStack developer</b> </td>
+      <td><a href="https://www.togglehead.in/"/><b>Togglehead</b></a></td>
+      <td> <b>Jul 2024 - Oct 2024 </b> </td>
    </tr>
    <tr>
       <td> <b> Software developer Intern</b> </td>
@@ -38,21 +43,6 @@
       <td> <b> Software developer Intern</b> </td>
       <td><a href="https://web.stratzy.in/"/><b>Stratzy</b></a></td>
       <td> <b>Aug 2023 - Apr 2024 </b> </td>
-   </tr>
-   <tr>
-      <td> <b> Full Stack developer Intern</b> </td>
-      <td><a href="https://www.linkedin.com/company/alongrow/"/><b>Alongrow Services</b></a></td>
-      <td> <b>Sep 2023 - Nov 2023 </b> </td>
-   </tr>
-   <tr>
-      <td> <b> Software developer Intern</b> </td>
-      <td><a href="https://aavilabs.com/"/><b>AAV Innovation Labs</b></a></td>
-      <td> <b>Aug 2023 - Sep 2023 </b> </td>
-   </tr>
-   <tr>
-      <td> <b> Full Stack developer Intern</b> </td>
-      <td><a href="https://www.zaperon.com/"/><b>Zaperon</b></a></td>
-      <td> <b>Jul 2023 - Aug-2023 </b> </td>
    </tr>
    <tr>
       <td> <b> Open Source Contributor</b> </td>
