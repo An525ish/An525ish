@@ -64,11 +64,6 @@
       <td><a href="https://etherworld.co/"/><b>Avarch</b></a></td>
       <td> <b>Feb 2023 - Aug-2023 </b> </td>
    </tr>
-    <tr>
-      <td> <b> Full Stack developer Intern</b> </td>
-      <td><a href="https://linqway.com/"/><b>Linqway Techniks</b></a></td>
-      <td> <b>Nov 2022 - Feb 2023 </b> </td>
-   </tr>
    </tbody>	 
 </table>
 
@@ -79,8 +74,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=an525ish&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="an525ish" /></td>
-    <td><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=an525ish&theme=dark&hide_border=false" alt="an525ish" /></td>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=an525ish&show_icons=true&theme=dark&locale=en&include_all_commits=true&count_private==true" alt="an525ish" /></td>
+    <td><img align="center" src="https://streak-stats.demolab.com/?user=an525ish&theme=dark&hide_border=false" alt="an525ish" /></td>
   </tr>
 </table>
 
@@ -88,7 +83,7 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an525ish&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="an525ish" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=an525ish&show_icons=true&theme=dark&locale=en&layout=compact&include_all_commits=true&count_private==true" alt="an525ish" />
   </p>
  </div> 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -101,4 +96,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- --- -->
-[![](https://visitcount.itsvg.in/api?id=an525ish&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=an525ish&icon=0&color=0)](https://visitcount.itsvg.in) -->
